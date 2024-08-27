@@ -50,25 +50,29 @@ The dashboards were built using two datasets:
  1. Virat Kohli
  2. Chris Gayle
  3. David Warner
+
 **Reason:** These three batsmen are among the top 10 in fours, sixes, and runs. with this they also Orange Cap winners.
 
 ### Best-performing bowlers
  1. Dwayne Bravo
  2. Lasith Malinga
  3. Bhuvneshwar Kumar
+
 **Reason:** These three bowlers are in the top 10 for wicket-takers and have also won the Purple Cap.
 
 ### Best - Performing Teams
 1. Kolkata Knight Riders
 2. Kings xi Punjab
 3. Delhi Daredevils
+
 **Reason:** These three teams have the highest average winning rate among all teams that have played all ten seasons.
 
 ### Most - Played Grounds
  1. M. Chinnaswamy
  2. Eden Gardens
  3. Feroz Shah Kotla
+
 **Reason:** These three stadiums have hosted the most matches among all stadiums over the ten seasons.
 
 ## Conclusion
-This project successfully delivers an interactive Tableau dashboard that provides valuable insights into the IPL from 2008 to 2017. The dashboards enable users to explore data from different angles, making it a powerful tool for sports analysts, journalists, and cricket enthusiasts alike. By leveraging these visualizations, the IFP news agency can enhance its newsletter content with accurate and compelling cricket statistics.
+This project successfully delivers an interactive Tableau dashboard that provides valuable insights into the IPL from 2008 to 2017. The dashboards enable users to explore data from different angles, making it a powerful tool for sports analysts, journalists, and cricket enthusiasts. By leveraging these visualizations, the IFP news agency can enhance its newsletter content with accurate and compelling cricket analysis.
